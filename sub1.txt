@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int x,y,z=0;
+	cin>>x>>y;
+	z=x+y;
+	cout<<"Substraction of two nos id: "<<z;
+	return 0;
+}
